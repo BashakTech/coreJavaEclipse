@@ -1,0 +1,6 @@
+
+	There are Three Types of Loop
+	
+	i)	for
+   ii)	while
+  iii)	do while

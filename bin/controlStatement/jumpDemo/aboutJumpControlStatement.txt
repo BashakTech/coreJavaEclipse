@@ -1,0 +1,6 @@
+
+	There are 3 types of Jump in Control Statement:
+		
+		1)	break
+		2)	continue
+		3)	return

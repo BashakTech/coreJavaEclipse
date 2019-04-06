@@ -1,0 +1,10 @@
+
+	In Java there are main 7 types of Operator & they are:
+	
+	1) Arithmetic Operator
+	2) Assignment 
+	3) Relational
+	4) Logical
+	5) Conditional
+	6) Unary
+	

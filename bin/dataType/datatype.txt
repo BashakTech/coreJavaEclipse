@@ -1,0 +1,14 @@
+There are 9 types of DataType in Java & they are:
+
+	 
+	1) byte		= Byte
+	2) short	= Short
+	3) int		= Integer
+	4) long		= Long
+	5) float	= Float
+	6) double	= Double
+	7) boolean	= Boolean
+	8) String	= String
+	9) char		= Character
+	
+	

@@ -1,0 +1,16 @@
+
+	Control Statement are mainly 3 types:
+	
+	i)	Selection
+				1)	if
+				2)	if else
+				3)	switch
+				
+   ii)	Iteration/Looping
+   				1)	for
+   				2)	while
+   				3)	do while
+  iii)	Jump
+  				1)	break
+  				2) 	continue
+  				3)	return

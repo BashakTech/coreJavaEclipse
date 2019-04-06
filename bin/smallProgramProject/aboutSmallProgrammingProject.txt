@@ -1,0 +1,5 @@
+
+	This Package about Small Project 
+	
+	1)	Loop
+	2)	Series Math
